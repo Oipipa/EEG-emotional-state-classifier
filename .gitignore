@@ -1,0 +1,25 @@
+# Bytecode and caches
+__pycache__/
+*.py[cod]
+.Python
+
+# Virtual envs
+.venv/
+venv/
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# Data / artifacts
+logs/
+data/raw/
+data/interim/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS noise
+.DS_Store
+Thumbs.db
